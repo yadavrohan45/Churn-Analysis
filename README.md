@@ -8,4 +8,5 @@ The objective of this analysis is to examine customer churn behavior using raw t
 49% of customers that has no online security and tech support have churned.</br>
 45% of customers who used Electronic Check as their payment method have churned.</br>
 42.7% of customers that choose monthly contract have churned </br>
-41.7% of customer that choose fiber optic as internet service have churned
+41.7% of customer that choose fiber optic as internet service have churned</br>
+The majority of customers have churned during the early stages of their tenure.
